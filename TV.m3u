@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 ,CBC News
+http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV10HD.png",CCTV10HD
+http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/kimcrowing/IPTV/master/CCTV/CCTV11HD.png",CCTV11HD
+http://121.31.30.90:8085/ysten-business/live/cctv-11/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV12HD.png",CCTV12HD
+http://121.31.30.90:8085/ysten-business/live/cctv-12/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://raw.githubusercontent.com/kimcrowing/IPTV/master/CCTV/CCTV13HD.png",CCTV13HD
+http://121.31.30.90:8085/ysten-business/live/cctv-13/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV14HD.png",CCTV14HD
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV15HD.png",CCTV15HD
+http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV17HD.png",CCTV17HD
+http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV1HD.png",CCTV1HD
+http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV2HD.png",CCTV2HD
+http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV3HD.png",CCTV3HD
+http://121.31.30.90:8085/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV4HD.png",CCTV4HD
+http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV5+HD.png",CCTV5+HD
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV5HD.png",CCTV5HD
+http://121.31.30.90:8085/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV6HD.png",CCTV6HD
+http://121.31.30.90:8085/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV7HD.png",CCTV7HD
+http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV8HD.png",CCTV8HD
+http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/CCTV/CCTV9HD.png",CCTV9HD
+http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
+#EXTINF:-1 ,东南卫视HD
+http://140.207.241.2:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视HD
+http://140.207.241.2:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育HD
+http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视HD
+http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="网络频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png",华数好莱坞大赏
+http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
+#EXTINF:-1 group-title="网络频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png",华数惊悚悬疑
+http://hls-ott-zhibo.wasu.tv/live/104_55913/index.m3u8
+#EXTINF:-1 group-title="网络频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png",华数抗日剧场
+http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
+#EXTINF:-1 group-title="网络频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png",华数热门网大
+http://hls-ott-zhibo.wasu.tv/live/107_50459/index.m3u8
+#EXTINF:-1 group-title="网络频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png",华数爱情电影
+http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
+#EXTINF:-1 group-title="网络频道" tvg-logo="https://github.com/kimcrowing/IPTV/raw/master/statetv/huashu.png",华数院线大片
+http://hls-ott-zhibo.wasu.tv/live/357/index.m3u8
+#EXTINF:-1 ,天津卫视HD
+http://140.207.241.2:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视HD
+http://140.207.241.2:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视HD
+http://140.207.241.2:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视HD
+http://140.207.241.2:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视HD
+http://140.207.241.2:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视HD
+http://140.207.241.2:8080/live/program/live/jxwshd/4000000/d1.m3u8
+#EXTINF:-1 ,浙江卫视HD
+http://140.207.241.2:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视HD
+http://140.207.241.2:8080/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,游戏风云HD
+http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视HD
+http://140.207.241.2:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视HD
+http://140.207.241.2:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视HD
+http://140.207.241.2:8080/live/program/live/hljwshd/4000000/mnf.m3u8
